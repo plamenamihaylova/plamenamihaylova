@@ -1,6 +1,6 @@
 <img align="center" src="cropped.png" title="Hello world!"/>
 
-# Hello, I'm Plamena - full-stack developer. 
+# I'm Plamena - full-stack developer
 
 #### ✨ Self-taught programmer with versatile software development experience and a background in telecommunications.
 
