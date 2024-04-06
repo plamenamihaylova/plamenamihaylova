@@ -1,12 +1,13 @@
 <img align="center" src="cropped.png" title="Hello world!"/>
-### Hello, I'm Plamena - full-stack developer. 
 
-✨ Self-taught programmer with versatile software development experience and a background in telecommunications.
+# Hello, I'm Plamena - full-stack developer. 
 
-🤓 Tech enthusiast seeking modern technologies.
+#### ✨ Self-taught programmer with versatile software development experience and a background in telecommunications.
 
-🦄 Front-end diva weaving together a passion for front-end development and design expertise.
+#### 🤓 Tech enthusiast seeking modern technologies.
 
+#### 🦄 Front-end diva weaving together a passion for front-end development and design expertise.
+----
 
 
 
