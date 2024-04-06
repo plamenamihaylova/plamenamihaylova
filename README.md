@@ -1,6 +1,6 @@
 <img align="center" src="cropped.png" title="Hello world!"/>
 
-# I'm Plamena - full-stack developer
+# I'm Plamena - Full-stack developer
 
 #### ✨ Self-taught programmer with versatile software development experience and a background in telecommunications.
 
@@ -8,9 +8,6 @@
 
 #### 🦄 Front-end diva weaving together a passion for front-end development and design expertise.
 ----
-
-
-
 
 <!--
 **plamenamihaylova/plamenamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
