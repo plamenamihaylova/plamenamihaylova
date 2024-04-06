@@ -1,3 +1,5 @@
+<img height="400" src="Header-Image.jpg" title="Hello world!" width="1000"/>
+
 ### Hi there 👋
 
 <!--
