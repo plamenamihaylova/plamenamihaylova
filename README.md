@@ -1,4 +1,4 @@
-<img align="center" src="cropped.png" title="Hello world!"/>
+<img align="center" src="github-page-header.png" title="Hello world!"/>
 
 # I'm Plamena - Full-stack developer
 
