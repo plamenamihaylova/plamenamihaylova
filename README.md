@@ -1,10 +1,12 @@
 <img height="400" src="Header-Image.png" title="Hello world!" width="1000"/>
 
-<img height="400" src="github-page-header.png" title="Hello world!" width="1000"/>
-
-
-
 ### Hi there 👋
+
+<img align="right" height="250" width="375" src="github-page-header.png" title="Hello world!"/>
+
+
+
+
 
 <!--
 **plamenamihaylova/plamenamihaylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
