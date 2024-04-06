@@ -4,6 +4,7 @@
 
 <img align="center" height="400" width="800" src="github-page-header.png" title="Hello world!"/>
 
+<img align="center" height="400" width="800" src="cropped.png" title="Hello world!"/>
 
 
 
