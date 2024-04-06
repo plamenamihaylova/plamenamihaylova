@@ -1,10 +1,12 @@
-<img height="400" src="Header-Image.png" title="Hello world!" width="1000"/>
-
-### Hi there 👋
-
-<img align="center" height="400" width="800" src="github-page-header.png" title="Hello world!"/>
-
 <img align="center" src="cropped.png" title="Hello world!"/>
+### Hello, I'm Plamena - full-stack developer. 
+
+✨ Self-taught programmer with versatile software development experience and a background in telecommunications.
+
+🤓 Tech enthusiast seeking modern technologies.
+
+🦄 Front-end diva weaving together a passion for front-end development and design expertise.
+
 
 
 
